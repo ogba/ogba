@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, its my Bio 👨‍💻</h1>
 
 <p align="center">
-  <strong>AI Engineer | ERP Consultant | Software & Solutions Architect</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+ERP+Consultant;Software+%26+Solutions+Architect;Technical+Lead+%7C+AI+Specialist;Building+Intelligent+Systems" alt="Typing Animation" />
 </p>
 
 <p align="center">
