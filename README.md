@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header" width="100%" />
 </p>
 
 <!-- Banner / Hero Image -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Mohamed Awad - AI Engineer & Solutions Architect" width="100%" />
+  <img src="./assets/banner.svg" alt="Mohammed Ogba - AI Engineer & Solutions Architect" width="100%" style="margin-top: -10px;" />
 </p>
 
 <h1 align="center">Hi there, its my Bio 👨‍💻</h1>
