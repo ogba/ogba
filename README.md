@@ -3,7 +3,7 @@
   <img src="./assets/banner.svg" alt="Mohamed Awad - AI Engineer & Solutions Architect" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Mohammed Ogba 👨‍💻</h1>
+<h1 align="center">Hi there, Welcome Here 👨‍💻</h1>
 
 <p align="center">
   <strong>AI Engineer | ERP Consultant | Software & Solutions Architect</strong>
