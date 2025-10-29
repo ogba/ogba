@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header" width="100%" />
-</p>
-
-<!-- Banner / Hero Image -->
-<p align="center">
-  <img src="./assets/banner.svg" alt="Mohammed Ogba - AI Engineer & Solutions Architect" width="100%" style="margin-top: -10px;" />
-</p>
+<div align="center" style="line-height: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header" width="100%" style="display: block; margin: 0; padding: 0;" />
+  <img src="./assets/banner.svg" alt="Mohammed Ogba - AI Engineer & Solutions Architect" width="100%" style="display: block; margin: -2px 0 0 0; padding: 0;" />
+</div>
 
 <h1 align="center">Hi there, its my Bio 👨‍💻</h1>
 
